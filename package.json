@@ -1,0 +1,19 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "Journal for tracking daily activities, emotions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchibhindwale/Diary.git"
+  },
+  "author": "Ruchi Chandorkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchibhindwale/Diary/issues"
+  },
+  "homepage": "https://github.com/ruchibhindwale/Diary#readme"
+}
